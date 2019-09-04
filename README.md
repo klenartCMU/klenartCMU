@@ -2,7 +2,7 @@
 This is my portfolio for Telling Stories with Data.
 
 # About me
-She/her/hers\
+She/her/hers  
 I am a second-year PPM student with a concentration in Policy Analysis. Prior to coming to Heinz, I studied history, economics, and business, and worked in public history for two cultural institutions. As part of my coursework prior to Heinz, I worked with five other students to draft and help pass legislation to address issues that museums and other entities faced regarding abandoned cultural property. This made me interested in developing evidence-based policy solutions and evaluating current policies, which led me to Heinz last fall. This summer, I worked at the U.S. Government Accountability Office on the Financial Markets and Community Investment team. I plan to continue working in policy analysis and program evaluation following graduation.
 
 # What I hope to learn
