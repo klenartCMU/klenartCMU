@@ -17,4 +17,4 @@ I'm hoping that this class will provide me with a foundation of general principl
 [Titanic Passenger Data Visualization](https://klenartcmu.github.io/klenart_portfolio/titanic_survivors)
 
 # This is my updated visualization from _The Economist_ article about Facebook likes.
-[Updated Visualization]()
+[Updated Visualization](https://klenartcmu.github.io/klenart_portfolio/facebook_likes)
