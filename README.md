@@ -17,4 +17,4 @@ I'm hoping that this class will provide me with a foundation of general principl
 [Titanic Passenger Data Visualization](https://klenartcmu.github.io/klenart_portfolio/titanic_survivors)
 
 # This is my updated visualization from _The Economist_ article about Facebook likes.
-<iframe title="Average Number of Likes per Facebook Post, 2016" aria-label="Bar Chart" id="datawrapper-chart-al8cf" src="//datawrapper.dwcdn.net/al8cf/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="238"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
+[Updated Visualization]()
