@@ -1,0 +1,1 @@
+In looking for a visualization to critique and revise for this assignment, I came across an interesting article in Forbes about the charitable contributions of the current field seeking the Democratic nomination for President.
