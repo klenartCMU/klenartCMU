@@ -16,4 +16,4 @@ This overlap created a dilemma in which two of the candidates were actually obsc
 
 <iframe src="https://public.tableau.com/views/FinalChartMain/Chart?:showVizHome=no&:embed=true" width="100%" height="800" ></iframe>
 
-<iframe src="https://public.tableau.com/views/FinalCharts2_15688217916110/Inset?:showVizHome=no&:embed=true" width="100%" height="500" ></iframe>
+<iframe src="https://public.tableau.com/views/FinalCharts2_15688217916110/Inset?:showVizHome=no&:embed=true" width="75%" height="500" ></iframe>
