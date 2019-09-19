@@ -10,7 +10,7 @@ I started by drafting a series of very basic sketches that took a few different 
 
 The image below is the first wireframe that I prepared by hand. I developed this further by creating a second wireframe using Tableau, which I then updated to create my final visualization.
 
-[[https://github.com/klenartCMU/klenart_portfolio/blob/master/IMG_0129.jpg]]
+<img src="IMG_0129.jpg" />
 
 I met with Matt in Office Hours to get some feedback on my original ideas, and he provided good insight on some of the issues I was having with visualizing outliers and how to consider the overall context of the visualization in my critique. One of the key pieces of feedback I received from him was to clarify that some of the omitted candidates had not disclosed the tax information necessary to calculate their contributions as a percent of earnings. This could include a caption, particularly because one of these candidates (Tom Steyer) had a total dollar amount of contributions that would have been about 138 times as large as the next closest candidate (Joe Biden), which would have made including his data in the visualization itself difficult. I also consulted with my roommate to get her perspective as a cold reader on the wireframes. She provided helpful feedback on what was clearest about the proposed design and what nuances needed to be clarified, which helped me identify what needed to be emphasized moving forward. One aspect that she highlighted was the importance of seeing data on the full field of candidates at once, while also guaranteeing that each point was visible. She also suggested I simplify the title for clarity.
 
