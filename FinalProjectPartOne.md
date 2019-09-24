@@ -1,4 +1,23 @@
 # Outline
+High-level summary: Through my final project, I am interested in exploring the effect of driver behaviors on the occurrence and outcomes of car accidents in Allegheny County in 2018 to demonstrate how changes in these behaviors could 
+
+A total of 12,418 reportable car crashes occurred in Allegheny County during 2018. When reporting these incidents, police records include, among other information, the location of the crash, any fatalities or injuries, and the factors associated with the crash. With a total of 68 deaths and over 6,800 injuries caused by these crashes, I became interested in looking at the factors involved to identify the extent to which behaviors within driver control like speeding, driving under the influence, and failing to wear a seatbelt are associated with the prevalence of accidents and the injuries and deaths that result. [NOTE: All but one of the factors have a direct relationship to the occurrence of the accident. The excluded factor, failing to wear a seatbelt, is more associated with outcomes (injuries or fatalities) than the occurrence of an accident. As a result, any time I am examining factors that are affiliated with the occurrence of an accident, I will use only the appropriate factors. When talking about the outcomes, I will consider both the factors that could influence the accident behind these outcomes as well as the failure to wear a seatbelt.]
+
+My user stories:
+As a reader, I want to understand how driver behaviors impact the prevalence and severity of car accidents in Allegheny County.
+As a designer, I want to convey to readers that thousands of auto accidents, and resulting injuries and fatalities, are the product of dangerous driver behaviors, and therefore could possibly be avoided by refraining from these behaviors.
+
+I plan to begin my final project with an introduction like that above to establish the scope of the issue and the angle from which I am investigating it. I will include call-out visualizations to highlight major statistics on car accidents, injuries, and fatalities. I will then break the story into several chapters.
+
+The first “chapter” will provide an overview of the relationship between risk behaviors and car accident outcomes at a broad level. The first visualization in this section will summarize the overall trend in the number of car accidents from 2008-2018 in Allegheny County. Additionally, I will illustrate the number of accidents in 2018 that were related to one or more risk behaviors to summarize the role of these behaviors at a high level. Finally, I will break down the prevalence of each of these factors in the accidents that occurred, as multiple factors may have been involved with one accident.
+
+The second chapter will further explore the damage caused by mutable behavioral factors by linking these behaviors to fatalities and injuries resulting from these accidents, rather than just the prevalence of these accidents themselves. The visualizations will illustrate the total number of fatalities tied to at least one of these behavioral factors. It will also do the same for the total number of injuries.
+
+The third chapter will further explore this concept using a single visualization that traces the outcome of each accident. I plan to do this by creating an alluvial diagram that demonstrates how accidents are distributed first between those involving one or more of these factors and those that did not, secondly among which risk factor was involved, and finally among the most severe outcome experienced by at least one person involved in the accident.
+
+The fourth chapter will briefly acknowledge the limitations of my work to demonstrate that further analysis could provide more insight on these trends. For example, the original dataset records weather, lighting, and other conditions that could be analyzed alongside data on driver behaviors to determine which of these behaviors increase the likelihood of an accident in suboptimal conditions.
+
+Finally, I plan to conclude with a call to action that demands an end to these dangerous behaviors in order to avoid preventable crashes, injuries, and deaths. To emphasize this point, I will include [National Safety Council data](https://www.nsc.org/road-safety/safety-topics/fatality-estimates) on the 40,000 fatalities and 4,500,000 serious injuries that occurred nationally in 2018. There are clear steps that Americans can take to reduce auto accident fatalities and injuries.
 
 # Sketches
 
