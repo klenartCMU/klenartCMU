@@ -29,3 +29,8 @@ So far, I have cleaned the data and narrowed its scope to the fields most of int
 
 
 # Method & Medium
+Now that I have organized the data, I plan to start experimenting with the visualizations I can make based on my initial thoughts in the sketches and the advice provided in class and the textbook. To construct the visualizations for the data story, I plan to use Tableau primarily, as well as RAWGraphs to construct the alluvial diagram I plan to include.
+
+After constructing these visualizations, I plan to present the final product using Shorthand. I plan to build a visual story that separates each section into a “chapter” and incorporates text and data visualization seamlessly. I want to take more time to experiment with the different set-ups (scrolling text with visualizations, scrolling through different visualizations within a single “chapter,” etc.) to think more about what would be best for the project.
+
+I think Shorthand will be an effective method of accomplishing this based on the examples we reviewed in class and through my (preliminary) experimentation with the site because it provides a clean, effective method for moving through the story arc that balances text and visuals.
