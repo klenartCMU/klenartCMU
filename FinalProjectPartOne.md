@@ -22,9 +22,9 @@ Finally, I plan to conclude with a call to action that demands an end to these d
 # Sketches
 NOTE: The graphs drawn in are placeholders. Aside from a few instances, like with the alluvial graph, I haven’t played around with what visualizations would best show the data. Similarly, I haven’t decided which Shorthand layouts would be appropriate for each section.
 
-![alt text](https://github.com/klenartCMU/klenart_portfolio/blob/master/FP1_1_v2.jpg)
-![alt text](https://github.com/klenartCMU/klenart_portfolio/blob/master/FP1_2_v2.jpg)
-![alt text](https://github.com/klenartCMU/klenart_portfolio/blob/master/FP1_3_v2.jpg)
+![Sketch 1](FP1_1_v2.jpg)
+![Sketch 2](FP1_2_v2.jpg)
+![Sketch 3](FP1_3_v2.jpg)
 
 # Data
 I located the data that I am using for this project using the Western Pennsylvania Regional Data Center. The dataset I am working with, “Allegheny County Crash Data,” was uploaded by PennDOT and is updated annually. I will use the most recent year available (2018). The dataset includes over 160 fields recording factors and outcomes related to each reportable accident. (“Reportable accident” refers to an incident on a road open to the public that involved at least one motor vehicle in transport and resulted in at least one of the following outcomes: injury to any person; death of any person; or damage to any vehicle to the extent that it cannot be driven under its own power in its customary manner without further damage or hazard to the vehicle, other traffic elements, or the roadway, and therefore requires towing.)
