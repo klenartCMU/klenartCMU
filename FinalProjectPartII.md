@@ -1,12 +1,15 @@
 # User Research Protocol
 
 ### Target Audience
+
 The target audience I plan to reach with my story is all drivers in Allegheny County.
 
 ### Identifying Individuals to Interview
+
 I wanted to interview three Allegheny County drivers to determine the extent to which the story and visualizations conveyed the intended message.
 
 ### Interview
+
 **Goals & Questions**
 
 |            **Goals**            |             **Questions**            |
@@ -19,13 +22,16 @@ I wanted to interview three Allegheny County drivers to determine the extent to 
 |Identify additional information that the viewer would like to share|Are there any additional aspects of the story that you would like to comment on?|
 
 **Background**<br/>
+
 12,417 reportable auto accidents occurred in Allegheny County in 2018. Police reports document several items related to each accident, including characteristics that may have contributed to the incident or affected the outcomes (injuries or fatalities) that resulted. Although factors like weather and illumination affect accident occurrence, other factors encompass risk behaviors like cell phone use, speeding, and driving under the influence, which are under driver control. As a result, one way to reduce accidents and their outcomes is to reduce driver participation in behaviors like these.
 
 **Methods and Metrics**<br/>
-•	Five-minute, in-person interviews with three Pennsylvania drivers of different ages
+
+•	Five-minute, in-person interviews with three Pennsylvania drivers of different ages <br/>
 •	Notes from these interviews will be analyzed to identify areas improvement to the story and its visualizations
 
 **Script**<br/>
+
 *Introduction*: Thank you for your time today. I’d like to get some feedback from you on a data story about car accidents and driver risk behaviors. I’ll provide you with a storyboard that outlines the basic narrative of the story with the planned visualizations. Many of these visualizations are preliminary sketches of what the final charts and graphs will be. Because of this, I’d ask you to focus on critiquing these visualizations as parts of the narrative, rather than critiquing them as finished graphics.
 
 *Body*: Please review this storyboard and let me know when you’ve read it through.
