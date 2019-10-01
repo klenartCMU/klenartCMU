@@ -27,21 +27,22 @@ I wanted to interview three Allegheny County drivers to determine the extent to 
 
 ### Script
 
-Intro: Thank you for your time today. I’d like to get some feedback from you on a data story about car accidents and driver risk behaviors. I’ll provide you with a storyboard that outlines the basic narrative of the story with the planned visualizations. Many of these visualizations are preliminary sketches of what the final charts and graphs will be. Because of this, I’d ask you to focus on critiquing these visualizations as parts of the narrative, rather than critiquing them as finished graphics.
+*Introduction*: Thank you for your time today. I’d like to get some feedback from you on a data story about car accidents and driver risk behaviors. I’ll provide you with a storyboard that outlines the basic narrative of the story with the planned visualizations. Many of these visualizations are preliminary sketches of what the final charts and graphs will be. Because of this, I’d ask you to focus on critiquing these visualizations as parts of the narrative, rather than critiquing them as finished graphics.
 
-Body: Please review this storyboard and let me know when you’ve read it through.
+*Body*: Please review this storyboard and let me know when you’ve read it through.
 
 1.	Narrative
-a.	What message did you get from this story?
-b.	Do you think that any of the “chapters” obscure this message?
+    a.	 What message did you get from this story?
+    b.	Do you think that any of the “chapters” obscure this message?
 2.	Visualizations
-a.	Do you think the visualizations were supportive of the narrative you identified in the previous question?
-b.	Do you think any of them are particularly effective to this end?
-c.	Do you think any of them detract from this narrative?
+    a.	Do you think the visualizations were supportive of the narrative you identified in the previous question?
+    b.	Do you think any of them are particularly effective to this end?
+    c.	Do you think any of them detract from this narrative?
 3.	Viewer questions based on story
-a.	What did this story leave you wondering about?
+    a.	What did this story leave you wondering about?
 4.	Personal connection
-a.	Did anything in this story connect with you personally?
+    a.	Did anything in this story connect with you personally?
 5.	Additional information
-a.	Are there any additional aspects of the story that you would like to comment on?
-Conclusion: Thank you again for your time and your feedback.
+    a.	Are there any additional aspects of the story that you would like to comment on?
+
+*Conclusion*: Thank you again for your time and your feedback.
