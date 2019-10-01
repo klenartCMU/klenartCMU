@@ -13,11 +13,10 @@ I wanted to interview three Allegheny County drivers to determine the extent to 
 |---------------------------------|--------------------------------------|
 |Evaluate if narrative makes sense	What message did you get from this story?|Do you think that any of the “chapters” obscure this message?|
 |Evaluate if the visualizations effectively support this message|Do you think the visualizations were supportive of the narrative you identified in the previous question?|
-Do you think any of them are particularly effective to this end?
-Do you think any of them detract from this narrative?
-Evaluate what questions the viewer has after looking through the story	What did this story leave you wondering about? 
-Evaluate personal connection	Did anything in this story connect with you personally?
-Identify additional information that the viewer would like to share	Are there any additional aspects of the story that you would like to comment on?
+|Do you think any of them are particularly effective to this end?|Do you think any of them detract from this narrative?|
+|Evaluate what questions the viewer has after looking through the story|What did this story leave you wondering about?|
+|Evaluate personal connection|Did anything in this story connect with you personally?|
+|Identify additional information that the viewer would like to share|Are there any additional aspects of the story that you would like to comment on?|
 
 ### Background
 12,417 reportable auto accidents occurred in Allegheny County in 2018. Police reports document several items related to each accident, including characteristics that may have contributed to the incident or affected the outcomes (injuries or fatalities) that resulted. Although factors like weather and illumination affect accident occurrence, other factors encompass risk behaviors like cell phone use, speeding, and driving under the influence, which are under driver control. As a result, one way to reduce accidents and their outcomes is to reduce driver participation in behaviors like these.
