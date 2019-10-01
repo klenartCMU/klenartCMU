@@ -1,10 +1,6 @@
 # User Research Protocol
 
 ### Target Audience
-
-# User Research Protocol
-
-### Target Audience
 The target audience I plan to reach with my story is all drivers in Allegheny County.
 
 ### Identifying Individuals to Interview
