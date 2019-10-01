@@ -31,18 +31,18 @@ I wanted to interview three Allegheny County drivers to determine the extent to 
 
 *Body*: Please review this storyboard and let me know when you’ve read it through.
 
-1.	Narrative
-    a.	 What message did you get from this story?
-    b.	Do you think that any of the “chapters” obscure this message?
-2.	Visualizations
-    a.	Do you think the visualizations were supportive of the narrative you identified in the previous question?
-    b.	Do you think any of them are particularly effective to this end?
-    c.	Do you think any of them detract from this narrative?
-3.	Viewer questions based on story
-    a.	What did this story leave you wondering about?
-4.	Personal connection
-    a.	Did anything in this story connect with you personally?
-5.	Additional information
-    a.	Are there any additional aspects of the story that you would like to comment on?
+1.	Narrative<br/>
+    a.	 What message did you get from this story?<br/>
+    b.	Do you think that any of the “chapters” obscure this message?<br/>
+2.	Visualizations<br/>
+    a.	Do you think the visualizations were supportive of the narrative you identified in the previous question?<br/>
+    b.	Do you think any of them are particularly effective to this end?<br/>
+    c.	Do you think any of them detract from this narrative?<br/>
+3.	Viewer questions based on story<br/>
+    a.	What did this story leave you wondering about?<br/>
+4.	Personal connection<br/>
+    a.	Did anything in this story connect with you personally?<br/>
+5.	Additional information<br/>
+    a.	Are there any additional aspects of the story that you would like to comment on?<br/>
 
 *Conclusion*: Thank you again for your time and your feedback.
