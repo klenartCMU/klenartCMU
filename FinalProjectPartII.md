@@ -7,11 +7,12 @@ The target audience I plan to reach with my story is all drivers in Allegheny Co
 I wanted to interview three Allegheny County drivers to determine the extent to which the story and visualizations conveyed the intended message.
 
 ### Interview
-Goals & Questions
-Goals	Questions
-Evaluate if narrative makes sense	What message did you get from this story?
-Do you think that any of the “chapters” obscure this message?
-Evaluate if the visualizations effectively support this message	Do you think the visualizations were supportive of the narrative you identified in the previous question?
+**Goals & Questions**
+
+|            **Goals**            |             **Questions**            |
+|---------------------------------|--------------------------------------|
+|Evaluate if narrative makes sense	What message did you get from this story?|Do you think that any of the “chapters” obscure this message?|
+|Evaluate if the visualizations effectively support this message|Do you think the visualizations were supportive of the narrative you identified in the previous question?|
 Do you think any of them are particularly effective to this end?
 Do you think any of them detract from this narrative?
 Evaluate what questions the viewer has after looking through the story	What did this story leave you wondering about? 
