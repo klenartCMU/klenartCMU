@@ -15,7 +15,8 @@ I'm hoping that this class will provide me with a foundation of general principl
 [Critique by Design](https://klenartcmu.github.io/klenart_portfolio/assignment3)
 
 # Final Project
-[Part One](https://klenartcmu.github.io/klenart_portfolio/FinalProjectPartOne)
+[Part One](https://klenartcmu.github.io/klenart_portfolio/FinalProjectPartOne)<br/>
+[Part Two](https://klenartcmu.github.io/klenart_portfolio/FinalProjectPartII)
 
 # Sample embedded data visualization
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1sQPq50HfKYl4XcBCq6-Pf3O9C3EhZh_DdQcLqLMfKrxeBg69PFTXeYL73joodgdtRSKYO_k9AUHv/pubchart?oid=1946330430&amp;format=interactive"></iframe>
