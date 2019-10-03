@@ -1,6 +1,6 @@
 # User Research Protocol
 
-The storyboard for user feedback can be found ![here](https://klenartcmu.github.io/klenart_portfolio/FirstStoryboard).
+The storyboard for user feedback can be found [here](https://klenartcmu.github.io/klenart_portfolio/FirstStoryboard).
 
 ### Target Audience
 
