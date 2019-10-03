@@ -97,6 +97,8 @@ I interviewed three local drivers: a 26 year-old female, a 27 year-old female, a
 
 **Changes Resulting from Interviews**<br/>
 
+The updated storyboard I created based on user feedback can be found [here](https://klenartcmu.github.io/klenart_portfolio/FirstStoryboard).<br/>
+
 1.	Clarify terms<br/>
     a.	Include definitions of ambiguous terms, like “aggressive driving” (PennDOT)<br/>
     b.	Clarify that “outcomes” refer to injuries and fatalities<br/>
