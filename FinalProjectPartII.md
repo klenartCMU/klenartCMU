@@ -104,6 +104,6 @@ A.	Narrative<br/>
         b.	The second set is about tying these risk factors to outcomes (injuries and fatalities). This section demonstrates that                   almost three-quarters of accident fatalities involve one or more of these factors. About three-quarters of injuries with                 known severity result from accidents involving these risk factors.<br/>
         c.	The final graph charts the relationship between accidents, the number of risk factors, and the most severe outcome that                 occurred as a result of that accident. This chart shows that accidents with behavioral risk factors are just as destructive             as those with other factors only.<br/>
     3.	To further clarify the path of the narrative, use colors to signal the section of the story. I will also select visualization           colors that will coordinate with the primary color of that section.<br/>
-B.	Visualizations<br/>
+B.	Visualizations (still working on these)<br/>
     1.	Experiment with another type of visualization for the first graph (proportions of accidents involving each number of factors) or         use an inset to clarify the values for the very small proportions (as with the candidate philanthropy project). Talk to                 Chris/Matt about dealing with this type of issue.<br/>
     2.	Add text to the alluvial diagram to clarify labels and interpretation. Also, change the text of “0”/“1” for “no                         factors”/“factors” to “no”/“yes.”<br/>
