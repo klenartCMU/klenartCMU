@@ -2,7 +2,7 @@
 
 The source for all of the data presented is the Western Pennsylvania Regional Data Center's [Allegheny County Crash Data](https://data.wprdc.org/dataset/allegheny-county-crash-data).<br/>
 
-NOTE: The visualization with the question mark is the one that I am planning to discuss with the professor and TA. The alluvial diagram still requires editing to add the appropriate labels.
+NOTE: The visualization with the question mark will be updated based on a suggestion received during the group critique in class 10/3.
 
 ![Page 1 of 11](Slide1.JPG)
 ![Page 2 of 11](Slide2.JPG)
