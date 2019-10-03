@@ -26,7 +26,7 @@ I wanted to interview three Allegheny County drivers to determine the extent to 
 
 **Methods and Metrics**<br/>
 
-•	Five-minute, in-person interviews with three Pennsylvania drivers of different ages <br/>
+•	Five- to ten-minute, in-person interviews with three Pennsylvania drivers of different ages <br/>
 •	Notes from these interviews will be analyzed to identify areas improvement to the story and its visualizations
 
 **Script**<br/>
