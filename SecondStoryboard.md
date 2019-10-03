@@ -1,4 +1,7 @@
-### This is the second storyboard I created based on user feedback. <br/>
+### This is the second storyboard I created based on user feedback.<br/>
+
+The source for all of the data presented is the Western Pennsylvania Regional Data Center's [Allegheny County Crash Data](https://data.wprdc.org/dataset/allegheny-county-crash-data).<br/>
+
 NOTE: The visualization with the question mark is the one that I am planning to discuss with the professor and TA.
 
 ![Page 1 of 11](Slide1.JPG)
