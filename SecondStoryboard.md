@@ -12,6 +12,5 @@ NOTE: The visualization with the question mark is the one that I am planning to 
 ![Page 6 of 11](Slide6.JPG)
 ![Page 7 of 11](Slide7.JPG)
 ![Page 8 of 11](Slide8.JPG)
-![Page 9 of 11](Slide9.JPG)
 ![Page 10 of 11](Slide10.JPG)
 ![Page 11 of 11](Slide11.JPG)
