@@ -2,13 +2,11 @@
 
 The source for all of the data presented is the Western Pennsylvania Regional Data Center's [Allegheny County Crash Data](https://data.wprdc.org/dataset/allegheny-county-crash-data).<br/>
 
-NOTE: The visualization with the question mark will be updated based on a suggestion received during the group critique in class 10/3.
-
 ![Page 1 of 11](Slide1.JPG)
 ![Page 2 of 11](Slide2.JPG)
 ![Page 3 of 11](Slide3.JPG)
 ![Page 4 of 11](Slide4.JPG)
-![Page 5 of 11](Updated Slide 5.jpg)
+![Page 5 of 11](UpdatedSlide5.jpg)
 ![Page 6 of 11](Slide6.JPG)
 ![Page 7 of 11](Slide7.JPG)
 ![Page 8 of 11](Slide8.JPG)
