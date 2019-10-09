@@ -163,6 +163,7 @@ My intended audience for the final story is drivers in Allegheny County. I narro
 Additionally, I used a narrow focus for my audience because sometimes, data on a national scale can feel impersonal and distant. By shifting the focus to a specific county, the statistics and factors may have more resonance with the intended audience.
 
 ## Design Decisions
+A few of the most significant design decisions that I made over the course of the project are linked to the biggest takeaways I have from this process. ... Finally, the
 
 ## Final Data Story
 You can view my final data story [here](https://carnegiemellon.shorthandstories.com/LenartFinalProject/index.html).
