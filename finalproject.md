@@ -157,3 +157,11 @@ The updated storyboard I created based on user feedback can be found [here](http
 5.  Add text to the alluvial diagram to clarify labels and interpretation. Also, change the text of “0”/“1” for “no                        factors”/“factors” to “no”/“yes.” (In progress, although in looking at my storyboard with fresh eyes, I'm not sure how much this        visualization adds.)<br/>
 
 # Part III
+## Intended Audience
+My intended audience for the final story is drivers in Allegheny County. I narrowed my focus in part based on the data that I was using, but also because
+To make my final project work for my audience, I had to think about how to accommodate the perspectives of drivers in Western Pennsylvania. In an effort to do this, I acknowledged the additional work that could be done in this area but was beyond the scope of this project. This included weather and illumination, which are certainly factors that can affect driving in this part of the state.
+
+## Design Decisions
+
+## Final Data Story
+You can view my final data story [here](https://carnegiemellon.shorthandstories.com/LenartFinalProject/index.html).
