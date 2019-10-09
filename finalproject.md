@@ -46,7 +46,16 @@ I think Shorthand will be an effective method of accomplishing this based on the
 
 ## User Research Protocol
 
-The storyboard for user feedback can be found [here](https://klenartcmu.github.io/klenart_portfolio/FirstStoryboard).
+After talking with the course TA, I decided that the best option for my user feedback was to focus on getting feedback on my narrative to determine if it was coherent and relevant. I also wanted to know what they thought about my planned visualizations, but I was more concerned about making sure that the narrative made sense. (I started the project with so much data and had to pare down what I could use effectively for the purposes of this project, and I was worried that this left my points unclear.) As a result, my storyboard focused on the text that I planned to include, with visualizations sketched in approximation to demonstrate the insights that the actual graphics would show.
+
+This is the storyboard that I used for user feedback.<br/>
+
+NOTE: When interviewees reached Ch. 3, I showed them an alluival diagram on a computer.<br/>
+
+![First Storyboard, page 1 of 4](Storyboard1Page1.jpg)
+![First Storyboard, page 2 of 4](Storyboard1Page2.jpg)
+![First Storyboard, page 3 of 4](Storyboard1Page3.jpg)
+![First Storyboard, page 4 of 4](Storyboard1Page4.jpg)
 
 ### Target Audience
 
@@ -143,8 +152,20 @@ I interviewed three local drivers: a 26 year-old female, a 27 year-old female, a
 
 **Changes Resulting from Interviews**<br/>
 
-The updated storyboard I created based on user feedback can be found [here](https://klenartcmu.github.io/klenart_portfolio/SecondStoryboard).<br/>
+After reviewing the user feedback, I made changes to my storyboard (as shown below).<br/>
 
+![Page 1 of 11](Slide1.JPG)
+![Page 2 of 11](Slide2.JPG)
+![Page 3 of 11](Slide3.JPG)
+![Page 4 of 11](Slide4.JPG)
+![Page 5 of 11](UpdatedSlide5.jpg)
+![Page 6 of 11](Slide6.JPG)
+![Page 7 of 11](Slide7.JPG)
+![Page 8 of 11](Slide8.JPG)
+![Page 10 of 11](Slide10.JPG)
+![Page 11 of 11](Slide11.JPG)
+
+The major changes I decided to make were as follows:
 1.	Clarify terms<br/>
     a.	Include definitions of ambiguous terms, like “aggressive driving” (PennDOT)<br/>
     b.	Clarify that “outcomes” refer to injuries and fatalities<br/>
