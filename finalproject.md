@@ -158,8 +158,9 @@ The updated storyboard I created based on user feedback can be found [here](http
 
 # Part III
 ## Intended Audience
-My intended audience for the final story is drivers in Allegheny County. I narrowed my focus in part based on the data that I was using, but also because
-To make my final project work for my audience, I had to think about how to accommodate the perspectives of drivers in Western Pennsylvania. In an effort to do this, I acknowledged the additional work that could be done in this area but was beyond the scope of this project. This included weather and illumination, which are certainly factors that can affect driving in this part of the state.
+My intended audience for the final story is drivers in Allegheny County. I narrowed my focus in part based on the data that I was using, but also because while some behavioral risk factors for accidents could apply nationwide, other circumstances are regionally-specific. To make my final project work for my audience, I had to think about how to accommodate the perspectives of drivers in Western Pennsylvania. In an effort to do this, I acknowledged the additional work that could be done in this area but was beyond the scope of this project. This included weather and illumination, which are certainly factors that can affect driving in this part of the state.<br/>
+
+Additionally, I used a narrow focus for my audience because sometimes, data on a national scale can feel impersonal and distant. By shifting the focus to a specific county, the statistics and factors may have more resonance with the intended audience.
 
 ## Design Decisions
 
