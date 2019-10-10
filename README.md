@@ -8,20 +8,11 @@ I am a second-year PPM student with a concentration in Policy Analysis. Prior to
 # What I hope to learn
 I'm hoping that this class will provide me with a foundation of general principles for data visualization to demonstrate the fundamental factors and "best practices" in the field. In addition to these "guidelines," I hope the class will provide me with a sense of the possibilities for data visualization that will allow me to go beyond the types of graphics I have used in the past. I'm hoping I develop an improved intuition for creating effective data visualizations and evaluating existing graphics to help improve them.
 
-# Portfolio
-[OECD Data Visualization](https://klenartcmu.github.io/klenart_portfolio/dataviz2)
-
-# Critique by Design (Assignment 3)
-[Critique by Design](https://klenartcmu.github.io/klenart_portfolio/assignment3)
-
 # Final Project
 [Final Project](https://klenartcmu.github.io/klenart_portfolio/finalproject)<br/>
 
-# Sample embedded data visualization
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1sQPq50HfKYl4XcBCq6-Pf3O9C3EhZh_DdQcLqLMfKrxeBg69PFTXeYL73joodgdtRSKYO_k9AUHv/pubchart?oid=1946330430&amp;format=interactive"></iframe>
-
-# This is my Titanic passenger data visualization.
+# Portfolio
+[OECD Data Visualization](https://klenartcmu.github.io/klenart_portfolio/dataviz2)
+[Critique by Design](https://klenartcmu.github.io/klenart_portfolio/assignment3)
 [Titanic Passenger Data Visualization](https://klenartcmu.github.io/klenart_portfolio/titanic_survivors)
-
-# This is my updated visualization from _The Economist_ article about Facebook likes.
-[Updated Visualization](https://klenartcmu.github.io/klenart_portfolio/facebook_likes)
+[Updated _The Economist_ Visualization](https://klenartcmu.github.io/klenart_portfolio/facebook_likes)
