@@ -12,7 +12,7 @@ I'm hoping that this class will provide me with a foundation of general principl
 [Final Project](https://klenartcmu.github.io/klenart_portfolio/finalproject)<br/>
 
 # Portfolio
-[OECD Data Visualization](https://klenartcmu.github.io/klenart_portfolio/dataviz2)
-[Critique by Design](https://klenartcmu.github.io/klenart_portfolio/assignment3)
-[Titanic Passenger Data Visualization](https://klenartcmu.github.io/klenart_portfolio/titanic_survivors)
-[Updated _The Economist_ Visualization](https://klenartcmu.github.io/klenart_portfolio/facebook_likes)
+[OECD Data Visualization](https://klenartcmu.github.io/klenart_portfolio/dataviz2)<br/>
+[Critique by Design](https://klenartcmu.github.io/klenart_portfolio/assignment3)<br/>
+[Titanic Passenger Data Visualization](https://klenartcmu.github.io/klenart_portfolio/titanic_survivors)<br/>
+[Updated _The Economist_ Visualization](https://klenartcmu.github.io/klenart_portfolio/facebook_likes)<br/>
