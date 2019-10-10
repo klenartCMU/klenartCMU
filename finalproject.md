@@ -194,3 +194,16 @@ Finally, I learned a lot during this process about returning to the narrative yo
 
 ## Final Data Story
 You can view my final data story [here](https://carnegiemellon.shorthandstories.com/LenartFinalProject/index.html).
+
+### Sources Used in Final Data Story
+["Aggressive Driving."](https://www.penndot.gov/TravelInPA/Safety/TrafficSafetyAndDriverTopics/Pages/Aggressive-Driving.aspx) *Pennsylvania Department of Transportation.* 2019.
+
+["Allegheny County Crash Data."](https://data.wprdc.org/dataset/allegheny-county-crash-data). *Western Pennsylvania Regional Data Center.* 2018.
+
+Pennsylvania Department of Transportation. ["Crash Data Introduction."](https://data.wprdc.org/dataset/3130f583-9499-472b-bb5a-f63a6ff6059a/resource/c884d6da-588d-45ec-b029-8aaec8018500/download/database-primer-4-15.pdf) *Western Pennsylvania Regional Data Center.* 2019.
+
+["Safety on the Road."](https://www.nsc.org/road-safety) *National Safety Council.* 2019.
+
+Smith, Bryant Walker. ["Human Error as a Cause of Vehicle Crashes."](http://cyberlaw.stanford.edu/blog/2013/12/human-error-cause-vehicle-crashes) *Stanford Law School Center for Internet and Society.* December 18, 2013.
+
+Images courtesy of [Pexels](https://www.pexels.com/) and [Pixabay](https://pixabay.com/).
