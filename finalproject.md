@@ -1,3 +1,6 @@
+# Final Project
+You can view my final data story [here](https://carnegiemellon.shorthandstories.com/LenartFinalProject/index.html). The information below summarizes my design process.
+
 # Part I
 
 ## High Level Summary
@@ -5,7 +8,7 @@ Through my final project, I am interested in exploring the effect of driver beha
 
 A total of 12,418 reportable car crashes occurred in Allegheny County during 2018. When reporting these incidents, police records include, among other information, the location of the crash, any fatalities or injuries, and the factors associated with the crash. With a total of 68 deaths and over 6,800 injuries caused by these crashes, I became interested in looking at the factors involved to identify the extent to which behaviors within driver control like speeding, driving under the influence, and failing to wear a seatbelt are associated with the prevalence of accidents and the injuries and deaths that result. [NOTE: All but one of the factors have a direct relationship to the occurrence of the accident. The excluded factor, failing to wear a seatbelt, is more associated with outcomes (injuries or fatalities) than the occurrence of an accident. As a result, any time I am examining factors that are affiliated with the occurrence of an accident, I will use only the appropriate factors. When talking about the outcomes, I will consider both the factors that could influence the accident behind these outcomes as well as the failure to wear a seatbelt.]
 
-## My user stories:
+## My User Stories
 As a reader, I want to understand how driver behaviors impact the prevalence and severity of car accidents in Allegheny County.
 As a designer, I want to convey to readers that thousands of auto accidents, and resulting injuries and fatalities, are the product of dangerous driver behaviors, and therefore could possibly be avoided by refraining from these behaviors.
 
