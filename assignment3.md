@@ -1,3 +1,5 @@
+# Assignment 3: Critique by Design
+
 In looking for a visualization to critique and revise for this assignment, I came across an interesting article in Forbes about the charitable contributions of the candidates seeking the Democratic nomination for President. The article included a [visualization](https://www.forbes.com/sites/chasewithorn/2019/08/14/how-charitable-are-the-2020-presidential-candidates/#4bd7c8e625ee) that allowed users to toggle back and forth between two sets of graduated circles each demonstrating an aspect of charitable giving. One based circle size on the total dollar amount a candidate contributed, and the other based circle size on contributions as a percent of that candidate's total earnings.
 
 In reading the article and looking at the visualization, a few strengths and weaknesses jumped out at me right away. Working through Stephen Few's effectiveness profile helped me to perform a more holistic evaluation and identify what worked well and what I could potentially change in a redesign.
